@@ -2,7 +2,8 @@ Fork mission statement
 ----------------------  
 
 Misuse raspi2png.c in order to copy screenshot of bottom half of display 0
-onto top half (triggering by GPIO18 ging to higha and low).
+onto top half (triggered by GPIO18 going to high and low).  
+Captures HDMI overlays as well, which cannot be done with framebuffer only.  
 Related forum postings:
 https://www.raspberrypi.org/forums/viewtopic.php?f=43&t=267256&p=1623045#p1623045
 
