@@ -1,3 +1,11 @@
+Fork mission statement  
+----------------------  
+
+Misuse raspi2png.c in order to copy screenshot of bottom half of display 0
+onto top half (triggering by GPIO18 ging to higha and low).
+Related forum postings:
+https://www.raspberrypi.org/forums/viewtopic.php?f=43&t=267256&p=1623045#p1623045
+
 # raspi2png
 
 Utility to take a snapshot of the raspberry pi screen and save it as a PNG file
